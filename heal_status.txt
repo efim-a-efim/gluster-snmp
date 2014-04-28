@@ -1,0 +1,15 @@
+Gathering Heal info on volume MYVOL has been successful
+
+Brick gluster-test-01:/gluster
+Number of entries: 4
+/
+/zzz.yy
+/qqq.yy
+/xxx.yy
+
+Brick gluster-test-02:/gluster
+Number of entries: 4
+/
+/zzz.yy
+/xxx.yy
+/qqq.yy
