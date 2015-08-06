@@ -1,0 +1,1 @@
+{"name":"GlusterFS SNMP","tagline":"GlusterFS SNMP sub-agent for net-snmp","body":"Sub-agent uses pass_persist protocol to interact with net-snmp.\r\n\r\nMIB is published in the repo too. All MIB objects are supported.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
